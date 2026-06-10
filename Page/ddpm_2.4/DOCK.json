@@ -1,0 +1,2832 @@
+{
+  "domain_marker": "💠 DOCK",
+  "pages": {
+    "11211:700262": {
+      "page_name": "🏚️ Landing Page",
+      "version_id": "unknown_ver",
+      "dev_status": "NONE",
+      "status_flag": "ACTIVE",
+      "canvas_layers": {
+        "11211:700262": {
+          "layer_name": "🏚️ Landing Page",
+          "type": "CANVAS",
+          "dev_status": "NONE",
+          "sections": {
+            "11409:148150": {
+              "layer_name": "2.1",
+              "type": "SECTION",
+              "dev_status": "NONE",
+              "status_flag": "ACTIVE",
+              "features": {
+                "11211:700293": {
+                  "layer_name": "Dark Mode",
+                  "type": "SECTION",
+                  "dev_status": "NONE",
+                  "status_flag": "ACTIVE",
+                  "features": {
+                    "11211:700294": {
+                      "layer_name": "WD19S 130W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700295": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700296": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700299": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700301": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700302": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700305": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700307": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700308": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700311": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700313": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700314": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700315": {
+                      "layer_name": "WD19TBS",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700316": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700317": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700320": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700322": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700323": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700326": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700328": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700329": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700332": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700334": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700335": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700336": {
+                      "layer_name": "WD19TB",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700337": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700338": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700341": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700343": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700344": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700347": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700349": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700350": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700353": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700355": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700356": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700357": {
+                      "layer_name": "WD19DC",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700358": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700359": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700362": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700364": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700365": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700368": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700370": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700371": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700374": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700376": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700377": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700378": {
+                      "layer_name": "WD19",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700379": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700380": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700383": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700385": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700386": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700389": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700391": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700392": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700395": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700397": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700398": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700399": {
+                      "layer_name": "WD19 130W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700400": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700401": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700404": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700406": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700407": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700410": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700412": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700413": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700416": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700418": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700419": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700420": {
+                      "layer_name": "WD19 180W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700421": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700422": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700425": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700427": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700428": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700431": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700433": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700434": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700437": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700439": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700440": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700441": {
+                      "layer_name": "WD19S 180W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700442": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700443": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700446": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700448": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700449": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700452": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700454": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700455": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700458": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700460": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700461": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700462": {
+                      "layer_name": "WD22TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700463": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700464": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700467": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700469": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700470": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700473": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700475": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700476": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700479": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700481": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700482": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700483": {
+                      "layer_name": "WD25TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700484": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700485": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700488": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700490": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700491": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700494": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700496": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700497": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700500": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700502": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700503": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700504": {
+                      "layer_name": "WD25TB5",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700505": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700506": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700509": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700511": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700512": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700515": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700517": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700518": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700521": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700523": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700524": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700525": {
+                      "layer_name": "WD25",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700526": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700527": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700530": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700532": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700533": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700536": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700538": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700539": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700542": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700544": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700545": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700546": {
+                      "layer_name": "WD25Z",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700547": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700548": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700551": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700553": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700554": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700557": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700559": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700560": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700563": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700565": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700566": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700567": {
+                      "layer_name": "SD25",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700568": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700569": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700572": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700574": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700575": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700578": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700580": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700581": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700584": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700586": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700587": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700588": {
+                      "layer_name": "SD25TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700589": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700590": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700593": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700595": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700596": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700599": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700601": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700602": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700605": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700607": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700608": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700609": {
+                      "layer_name": "SD25TB5",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700610": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700611": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700614": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700616": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700617": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700620": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700622": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700623": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700626": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700628": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700629": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700630": {
+                      "layer_name": "WD19DCS",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700631": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700632": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700635": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700637": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700638": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700641": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700643": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700644": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700647": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700649": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700650": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "11211:700651": {
+                  "layer_name": "Dark Mode",
+                  "type": "SECTION",
+                  "dev_status": "NONE",
+                  "status_flag": "ACTIVE",
+                  "features": {
+                    "11211:700652": {
+                      "layer_name": "WD19S 130W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700653": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700654": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700657": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700659": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700660": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700663": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700665": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700666": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700669": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700671": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700672": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700673": {
+                      "layer_name": "WD19TBS",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700674": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700675": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700678": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700680": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700681": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700684": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700686": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700687": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700690": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700692": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700693": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700694": {
+                      "layer_name": "WD19TB",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700695": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700696": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700699": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700701": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700702": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700705": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700707": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700708": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700711": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700713": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700714": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700715": {
+                      "layer_name": "WD19DC",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700716": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700717": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700720": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700722": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700723": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700726": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700728": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700729": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700732": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700734": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700735": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700736": {
+                      "layer_name": "WD19",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700737": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700738": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700741": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700743": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700744": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700747": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700749": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700750": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700753": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700755": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700756": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700757": {
+                      "layer_name": "WD19 130W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700758": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700759": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700762": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700764": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700765": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700768": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700770": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700771": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700774": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700776": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700777": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700778": {
+                      "layer_name": "WD19 180W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700779": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700780": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700783": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700785": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700786": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700789": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700791": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700792": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700795": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700797": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700798": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700799": {
+                      "layer_name": "WD19S 180W",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700800": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700801": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700804": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700806": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700807": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700810": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700812": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700813": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700816": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700818": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700819": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700820": {
+                      "layer_name": "WD22TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700821": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700822": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700825": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700827": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700828": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700831": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700833": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700834": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700837": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700839": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700840": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700841": {
+                      "layer_name": "WD25TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700842": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700843": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700846": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700848": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700849": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700852": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700854": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700855": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700858": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700860": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700861": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700862": {
+                      "layer_name": "WD25TB5",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700863": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700864": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700867": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700869": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700870": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700873": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700875": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700876": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700879": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700881": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700882": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700883": {
+                      "layer_name": "WD25",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700884": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700885": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700888": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700890": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700891": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700894": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700896": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700897": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700900": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700902": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700903": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700904": {
+                      "layer_name": "WD25Z",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700905": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700906": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700909": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700911": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700912": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700915": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700917": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700918": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700921": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700923": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700924": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700925": {
+                      "layer_name": "SD25",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700926": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700927": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700930": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700932": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700933": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700936": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700938": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700939": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700942": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700944": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700945": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700946": {
+                      "layer_name": "SD25TB4",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700947": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700948": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700951": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700953": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700954": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700957": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700959": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700960": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700963": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700965": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700966": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700967": {
+                      "layer_name": "SD25TB5",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700968": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700969": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700972": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700974": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700975": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700978": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700980": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700981": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700984": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700986": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:700987": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "11211:700988": {
+                      "layer_name": "WD19DCS",
+                      "type": "SECTION",
+                      "dev_status": "NONE",
+                      "status_flag": "ACTIVE",
+                      "features": {
+                        "11211:700989": {
+                          "layer_name": "FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700990": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700993": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:700995": {
+                          "layer_name": "Hover",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:700996": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:700999": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:701001": {
+                          "layer_name": "No FW Update Available",
+                          "type": "SECTION",
+                          "dev_status": "NONE",
+                          "status_flag": "ACTIVE",
+                          "features": {
+                            "11211:701002": {
+                              "layer_name": "DDPM_KB900_copilot_yes",
+                              "type": "FRAME",
+                              "dev_status": "NONE",
+                              "sections": {
+                                "11211:701005": {
+                                  "layer_name": "content",
+                                  "type": "FRAME",
+                                  "dev_status": "NONE",
+                                  "sections": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "11211:701007": {
+                          "layer_name": "Note",
+                          "type": "FRAME",
+                          "dev_status": "NONE",
+                          "sections": {
+                            "11211:701008": {
+                              "name": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device When user click on “Update Firmware”, will go to the app Settings page",
+                              "text_content": "The Update Firmware button will appear only when there is a DOCK FW update for that respective device\nWhen user click on “Update Firmware”, will go to the app Settings page"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
